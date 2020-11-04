@@ -3,7 +3,7 @@ import edu.ucsd.cs110.temperature.Fahrenheit;
 import edu.ucsd.cs110.temperature.Temperature;
 import junit.framework.TestCase;
 
-import static org.junit.jupiter.api.Assertions.*;
+//import static org.junit.jupiter.api.Assertions.*;
 
 public class FahrenheitTest extends TestCase {
     private float delta = 0.001f;
